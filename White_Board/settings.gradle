@@ -1,0 +1,1 @@
+include ':app', ':javaocr-core-1.0'
